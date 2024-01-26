@@ -2,6 +2,9 @@
 本项目可实现解析国务院办公厅关于节假日放假安排的通知。
 如果要实现自动解析不同年份的安排，请自行实现页面内容的提取。
 
+# Project Introduction
+This project can parse the notices from the State Council General Office regarding holiday arrangements. If you want to automatically parse arrangements for different years, please implement the extraction of page content yourself.
+
 ![国务院办公厅通知](image.png)
 
 # 输出内容
