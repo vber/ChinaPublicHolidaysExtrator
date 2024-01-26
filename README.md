@@ -5,6 +5,9 @@
 # Project Introduction
 This project can parse the notices from the State Council General Office regarding holiday arrangements. If you want to automatically parse arrangements for different years, please implement the extraction of page content yourself.
 
+# 国务院假期安排搜索地址
+> https://sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=国务院办公厅关于2024年部分节假日安排的通知
+
 ![国务院办公厅通知](image.png)
 
 # 输出内容
